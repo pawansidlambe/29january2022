@@ -43,6 +43,8 @@ public class clas {
 			System.out.println(pn);
 		}
 		
+		int a = 90;
+		System.out.println();
 	}
 
 }
